@@ -19,5 +19,5 @@ nthreads journald
 
 ## Cloning the repository
 
-HTTPS: `https://github.com/jos3neto/nthreads.git`
-SSH:   `git@github.com:jos3neto/nthreads.git`
+1. HTTPS: `https://github.com/jos3neto/nthreads.git`
+2. SSH:   `git@github.com:jos3neto/nthreads.git`

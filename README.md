@@ -16,8 +16,3 @@ nthreads subset
 ```
 nthreads journald
 ```
-
-## Cloning the repository
-
-1. HTTPS: `https://github.com/jos3neto/nthreads.git`
-2. SSH:   `git@github.com:jos3neto/nthreads.git`
